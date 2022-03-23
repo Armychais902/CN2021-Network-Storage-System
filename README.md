@@ -38,6 +38,6 @@ $ get <filename> # Download the file with the <filename> to client
 ```
 
 ## Report
-Please refer to report.pdf:
+Please refer to [report.pdf](https://github.com/Armychais902/CN2021-Network-Storage-System/blob/main/report.pdf):
 - Draw the flowchart of building connection and file transferring
 - Explanation and handle of `SIGPIPE`
